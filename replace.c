@@ -1,5 +1,5 @@
 
-// COMP348 A1 -- Chris Anglin 40216346
+// Written by: Chris Anglin
 
 // main() is at the bottom
 
