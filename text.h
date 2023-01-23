@@ -1,5 +1,5 @@
 
-// COMP348 A1 -- Chris Anglin 40216346
+// Written by: Chris Anglin
 
 #ifndef text_H
 #define text_H
