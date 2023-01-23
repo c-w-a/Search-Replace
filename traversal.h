@@ -1,5 +1,5 @@
 
-// COMP348 A1 -- Chris Anglin 40216346
+// Written by: Chris Anglin
 
 #ifndef traversal_H
 #define traversal_H
