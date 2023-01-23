@@ -1,5 +1,5 @@
 
-// COMP348 A1 -- Chris Anglin 40216346
+// Written by: Chris Anglin
 
 #include <stdio.h>
 #include <stdlib.h>
